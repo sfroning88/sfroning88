@@ -5,7 +5,7 @@
 Building full stack AI products end-to-end — empowering small business owners to transform their unsellable businesses into attractive M&A targets. Drawn to lean startups and investment firms applying AI to problems that actually matter.
  
 - 🏙️ Based in Chicago, IL
-- 🎓 B.S. Computer Engineering, University of Notre Dame — Cum Laude, 3.87 GPA
+- 🎓 B.S. Computer Engineering, University of Notre Dame — Cum Laude
 - 🤖 Production agent generating **$1M/month in value** for small businesses @ Rowan
 - 💼 PE/M&A experience: LBOs, due diligence, $1B+ deal pipeline @ Focus Healthcare Partners
 - 📫 [sfroning@alumni.nd.edu](mailto:sfroning@alumni.nd.edu) · [linkedin.com/in/sean-froning](https://linkedin.com/in/sean-froning) · [seanfroning.com](https://seanfroning.com)

@@ -69,9 +69,3 @@ Building full stack AI products end-to-end — empowering small business owners 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=fff)](mailto:sfroning@alumni.nd.edu)
 [![Website](https://img.shields.io/badge/seanfroning.com-000?style=flat&logo=googlechrome&logoColor=fff)](https://seanfroning.com)
  
----
- 
-## 📊 GitHub Stats
- 
-![Sean's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sfroning88&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sfroning88&layout=compact&theme=default&hide_border=true)

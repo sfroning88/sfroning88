@@ -19,31 +19,34 @@ Building full stack AI products end-to-end — empowering small business owners 
 ### **Full Stack AI Engineer**
 
 _Rowan_ in Chicago IL from _Jul 2025 to Present_
-• Own delivery of collections agent generating $1M / month in value and reducing labor 8 hours / week for 5+ industrial businesses
-• Engineer automations supporting lower middle market bankers across 4 small business transactions up to $70 M enterprise value
-• Build software apps using React (TypeScript) frontends, FastAPI (Python) backends with RQ Redis jobs for 25+ M\&A professionals
-• Integrate with 5+ accounting, payroll, and enterprise software providers to automate 10+ multi-tenant financial data sync
-• Develop succession portal with scoring across 16 due diligence scopes, RBAC workflows, and revenue concentration visualizations
-• Architect document ingestion pipeline processing 100+ files of 1.5 GB+ per business into structured Postgres and pgvector stores
-• Deploy query-time RAG with SSE streaming, pgvector cosine search, cross-encoder rerank, and persisted citations
+
+- Own delivery of collections agent generating $1M / month in value and reducing labor 8 hours / week for 5+ industrial businesses
+- Engineer automations supporting lower middle market bankers across 4 small business transactions up to $70 M enterprise value
+- Build software apps using React (TypeScript) frontends, FastAPI (Python) backends with RQ Redis jobs for 25+ M\&A professionals
+- Integrate with 5+ accounting, payroll, and enterprise software providers to automate 10+ multi-tenant financial data sync
+- Develop succession portal with scoring across 16 due diligence scopes, RBAC workflows, and revenue concentration visualizations
+- Architect document ingestion pipeline processing 100+ files of 1.5 GB+ per business into structured Postgres and pgvector stores
+- Deploy query-time RAG with SSE streaming, pgvector cosine search, cross-encoder rerank, and persisted citations
 
 ### **Data Engineer**
 
 _University Relations_ in Notre Dame IN from _Jan 2022 to May 2025_
-• Spearheaded international alumni engagement strategy generating $5+ M in unrestricted donations across 10+ countries
-• Delivered 5+ performance and data-driven strategy presentations to University leadership, accessing $300 K additional funding
-• Built 10+ interactive dashboards using Tableau and PowerBI improving successful alumni engagement rate by 10% on outreach
-• Developed Python application serving 130+ students with Google Sheets integration processing 100+ daily donor transactions
-• Automated 5 legacy processes in statistics, reporting, and hiring using Microsoft Excel, reducing manual work by 14 hours / week
+
+- Spearheaded international alumni engagement strategy generating $5+ M in unrestricted donations across 10+ countries
+- Delivered 5+ performance and data-driven strategy presentations to University leadership, accessing $300 K additional funding
+- Built 10+ interactive dashboards using Tableau and PowerBI improving successful alumni engagement rate by 10% on outreach
+- Developed Python application serving 130+ students with Google Sheets integration processing 100+ daily donor transactions
+- Automated 5 legacy processes in statistics, reporting, and hiring using Microsoft Excel, reducing manual work by 14 hours / week
 
 ### **Healthcare Investment Analyst**
 
 _Focus Healthcare Partners LLC_ in Chicago IL from _May 2024 to Aug 2024_
-• Evaluated 15+ acquisitions using 3-Statements Leveraged Buyouts to determine equity returns across $1+ B deal pipeline
-• Built LLM RAG model processing 10+ K data points using LlamaIndex, CrewAI, and GPT-4o for controllable expense forecasting
-• Analyzed 20+ healthcare and senior housing real estate targets, identifying $300+ M in attractive investment opportunities
-• Supported asset management and operations of 4 portfolio companies valued at $250M achieving 12% EBITDA improvement
-• Participated in 10+ strategy meetings and client calls supporting $350M current fund with 75%+ Limited Partner retention rate
+
+- Evaluated 15+ acquisitions using 3-Statements Leveraged Buyouts to determine equity returns across $1+ B deal pipeline
+- Built LLM RAG model processing 10+ K data points using LlamaIndex, CrewAI, and GPT-4o for controllable expense forecasting
+- Analyzed 20+ healthcare and senior housing real estate targets, identifying $300+ M in attractive investment opportunities
+- Supported asset management and operations of 4 portfolio companies valued at $250M achieving 12% EBITDA improvement
+- Participated in 10+ strategy meetings and client calls supporting $350M current fund with 75%+ Limited Partner retention rate
 
 ---
 

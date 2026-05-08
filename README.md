@@ -16,31 +16,40 @@ Building full stack AI products end-to-end — empowering small business owners 
 
 ## 💼 Experience
 
-**Full Stack AI Engineer** — [Rowan](https://trustrowan.com) _(Jul 2025 – Present)_
+### **Full Stack AI Engineer**
 
-- Own delivery of collections agent generating $1M/month in value and reducing labor 8 hours/week for 5+ industrial businesses
-- Build React (TypeScript) frontends and FastAPI (Python) backends with RQ Redis jobs for 25+ M&A professionals
-- Integrate with 5+ accounting, payroll, and enterprise software providers to automate 10+ multi-tenant financial data syncs
-- Architect document ingestion pipeline processing 100+ files of 1.5 GB+ per business into structured Postgres and pgvector stores
-- Deploy query-time RAG with SSE streaming, pgvector cosine search, cross-encoder rerank, and persisted citations
+_Rowan_ in Chicago IL from _Jul 2025 to Present_
+• Own delivery of collections agent generating $1M / month in value and reducing labor 8 hours / week for 5+ industrial businesses
+• Engineer automations supporting lower middle market bankers across 4 small business transactions up to $70 M enterprise value
+• Build software apps using React (TypeScript) frontends, FastAPI (Python) backends with RQ Redis jobs for 25+ M\&A professionals
+• Integrate with 5+ accounting, payroll, and enterprise software providers to automate 10+ multi-tenant financial data sync
+• Develop succession portal with scoring across 16 due diligence scopes, RBAC workflows, and revenue concentration visualizations
+• Architect document ingestion pipeline processing 100+ files of 1.5 GB+ per business into structured Postgres and pgvector stores
+• Deploy query-time RAG with SSE streaming, pgvector cosine search, cross-encoder rerank, and persisted citations
 
-**Data Engineer** — University of Notre Dame _(Jan 2022 – May 2025)_
+### **Data Engineer**
 
-- Spearheaded international alumni engagement strategy generating $5M+ in unrestricted donations across 10+ countries
-- Built 10+ interactive dashboards using Tableau and Power BI, improving alumni engagement rate by 10%
-- Developed Python application serving 130+ students with Google Sheets integration processing 100+ daily donor transactions
+_University Relations_ in Notre Dame IN from _Jan 2022 to May 2025_
+• Spearheaded international alumni engagement strategy generating $5+ M in unrestricted donations across 10+ countries
+• Delivered 5+ performance and data-driven strategy presentations to University leadership, accessing $300 K additional funding
+• Built 10+ interactive dashboards using Tableau and PowerBI improving successful alumni engagement rate by 10% on outreach
+• Developed Python application serving 130+ students with Google Sheets integration processing 100+ daily donor transactions
+• Automated 5 legacy processes in statistics, reporting, and hiring using Microsoft Excel, reducing manual work by 14 hours / week
 
-**Healthcare Investment Analyst** — Focus Healthcare Partners _(May 2024 – Aug 2024)_
+### **Healthcare Investment Analyst**
 
-- Evaluated 15+ acquisitions using 3-Statement LBOs to determine equity returns across $1B+ deal pipeline
-- Built LLM RAG model processing 10K+ data points using LlamaIndex, CrewAI, and GPT-4o for expense forecasting
-- Analyzed 20+ healthcare and senior housing targets, identifying $300M+ in attractive investment opportunities
+_Focus Healthcare Partners LLC_ in Chicago IL from _May 2024 to Aug 2024_
+• Evaluated 15+ acquisitions using 3-Statements Leveraged Buyouts to determine equity returns across $1+ B deal pipeline
+• Built LLM RAG model processing 10+ K data points using LlamaIndex, CrewAI, and GPT-4o for controllable expense forecasting
+• Analyzed 20+ healthcare and senior housing real estate targets, identifying $300+ M in attractive investment opportunities
+• Supported asset management and operations of 4 portfolio companies valued at $250M achieving 12% EBITDA improvement
+• Participated in 10+ strategy meetings and client calls supporting $350M current fund with 75%+ Limited Partner retention rate
 
 ---
 
 ## 🛠️ Languages & Tools
 
-**Programming**
+### **Programming**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff)](https://www.python.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
@@ -49,7 +58,7 @@ Building full stack AI products end-to-end — empowering small business owners 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-**Web & Frameworks**
+### **Web & Frameworks**
 
 [![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=fff)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000)](https://react.dev/)
@@ -59,7 +68,7 @@ Building full stack AI products end-to-end — empowering small business owners 
 [![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=fff)](https://tailwindcss.com/)
 [![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat&logo=turborepo&logoColor=fff)](https://turbo.build/)
 
-**Data & AI**
+### **Data & AI**
 
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=fff)](https://openai.com/)
 [![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B46C1?style=flat&logo=llama&logoColor=fff)](https://www.llamaindex.ai/)
@@ -74,25 +83,25 @@ Building full stack AI products end-to-end — empowering small business owners 
 [![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=fff)](https://redis.io/)
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=fff)](https://www.prisma.io/)
 
-**Analytics & BI**
+### **Analytics & BI**
 
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=fff)](https://www.tableau.com/)
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=000)](https://powerbi.microsoft.com/)
 
-**Infrastructure & Tooling**
+### **Infrastructure & Tooling**
 
 [![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=fff)](https://vercel.com/)
 [![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=000)](https://render.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000)](https://www.kernel.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff)](https://git-scm.com/)
 
-**Finance & M&A**
+### **Finance & M&A**
 
 [![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=fff)](https://www.microsoft.com/en-us/microsoft-365/excel)
-[![LBO Modeling](https://img.shields.io/badge/LBO%20Modeling-2D3748?style=flat&logo=databricks&logoColor=fff)](#)
-[![Due Diligence](https://img.shields.io/badge/Due%20Diligence-1A1A2E?style=flat&logo=docusign&logoColor=fff)](#)
-[![SaaS Valuation](https://img.shields.io/badge/SaaS%20Valuation-4A90D9?style=flat&logo=stripe&logoColor=fff)](#)
-[![DCF Modeling](https://img.shields.io/badge/DCF%20Modeling-6C757D?style=flat&logo=cashapp&logoColor=fff)](#)
+[![LBO Modeling](https://img.shields.io/badge/LBO%20Modeling-2D3748?style=flat&logo=databricks&logoColor=fff)](https://github.com/sfroning88)
+[![Due Diligence](https://img.shields.io/badge/Due%20Diligence-1A1A2E?style=flat&logo=docusign&logoColor=fff)](https://github.com/sfroning88)
+[![SaaS Valuation](https://img.shields.io/badge/SaaS%20Valuation-4A90D9?style=flat&logo=stripe&logoColor=fff)](https://github.com/sfroning88)
+[![DCF Modeling](https://img.shields.io/badge/DCF%20Modeling-6C757D?style=flat&logo=cashapp&logoColor=fff)](https://github.com/sfroning88)
 
 ---
 

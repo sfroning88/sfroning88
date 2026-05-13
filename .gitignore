@@ -1,3 +1,9 @@
 # cursor config
 .cursor
 .cursor/**
+
+# macOs folder icons
+Icon?
+
+# ds store
+.DS_Store

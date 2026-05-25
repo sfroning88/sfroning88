@@ -1,6 +1,6 @@
-# Hi, I'm Sean Froning 👋
+# Hi, I'm Sean Froning 🐧
 
-**Full Stack AI Engineer @ [Rowan](https://trustrowan.com) | Youth Baseball & Basketball Coach**
+**Full Stack AI/ML Engineer @ [Rowan](https://trustrowan.com) | Youth Baseball & Basketball Coach**
 
 Building full stack AI products end-to-end — empowering small business owners to transform their unsellable businesses into attractive M&A targets. When I'm not building, I'm coaching youth baseball and basketball around Chicago. Drawn to lean startups and investment firms applying full stack AI to problems that actually matter, where end-to-end ownership is expected.
 
@@ -9,6 +9,7 @@ Building full stack AI products end-to-end — empowering small business owners 
 - 📚 Minors in Engineering Finance & Strategy and Accounting — Dean's List 5x
 - 🤖 Collections agent generating **$1M/month in value**, reducing labor 8 hrs/week for 5+ businesses @ Rowan
 - 🏗️ Software apps serving **25+ M&A professionals** across 4 transactions up to $70M enterprise value
+- 📊 Building AI/ML platform analyzing **450+ senior housing properties** for 10+ investors @ Deep Focus
 - 💼 PE/M&A experience: LBOs, due diligence, $1B+ deal pipeline @ Focus Healthcare Partners
 - 📫 [sfroning@alumni.nd.edu](mailto:sfroning@alumni.nd.edu) · [linkedin.com/in/sean-froning](https://linkedin.com/in/sean-froning) · [seanfroning.com](https://seanfroning.com)
 
@@ -47,6 +48,42 @@ _Focus Healthcare Partners LLC_ in Chicago IL from _May 2024 to Aug 2024_
 - Analyzed 20+ healthcare and senior housing real estate targets, identifying $300+ M in attractive investment opportunities
 - Supported asset management and operations of 4 portfolio companies valued at $250M achieving 12% EBITDA improvement
 - Participated in 10+ strategy meetings and client calls supporting $350M current fund with 75%+ Limited Partner retention rate
+
+---
+
+## 🚀 Projects
+
+### **AI/ML Platform for Senior Housing Investment**
+
+_Deep Focus_ in Chicago IL from _Apr 2026 to Present_ — Feature Engineering, MLOps, Full Stack Development
+
+- Develop investor platform for analyzing 450+ senior housing properties to predict controllable prd, occupancy, and operating margin
+- Building AI/ML full stack using React (TypeScript) dashboard, FastAPI (Python) backends with RQ Redis jobs for 10+ investors
+- Design Postgres database with Prisma managing feature observations, user authentication, schema migrations, and model lineage
+- Engineer scale-invariant orthogonal feature contract with 5+ derived ratios, 2+ mean-target encodings, and temporal features
+- Architect MLOps across 950+ samples, HMAC-SHA256 signatures, 8+ trainings, hot-swap model registry, and challenger promotion
+- Configure CI/CD with GitHub Actions, Playwright smoke tests against Vercel previews, Render deploy status gates, and code audits
+- Deploy query-time model inference with training-serving skew prevention through symmetric imputation and self-contained artifacts
+
+### **Financial Health Chatbot**
+
+_Rowan_ in Chicago IL — _Jul 2025_ — Flask App Design, AI Chatbot Modelling, Financial Analysis
+
+- Built a net working capital chatbot using Flask API and HTML/CSS/JS frontend, tailored for industrial small business owners
+- Engineered dynamic data ingestion pipeline using pandas and regex, parsing csv and xlsx into structured time-series dataframes
+- Enabled accurate business health analysis for AP, AR, Rolling Inventory, and Net Working Capital with dual-model architecture
+- Developed robust document cleaning and period parsing logic, ensuring compatibility across inconsistent financial file structures
+- Integrated plotting and historical trend mapping with PyChart features for visualization-assisted agentic financial health insights
+
+### **Web Scraping and RAG Pipeline**
+
+_Personal_ in Notre Dame IN from _Mar 2025 to Jun 2025_ — Data Wrangling, AI RAG Modelling, AI Automation
+
+- Scraped 3000+ competitive battling Pokemon datasets using concurrent BeautifulSoup requests with ~100% efficiency
+- Processed 1 GB+ of data through automated Google Drive integration and structured file management systems
+- Built LLM RAG fine-tuned model using LlamaIndex, CrewAI, and GPT-4o-Mini generating battle team recommendations
+- Optimized chat performance by adjusting document embeddings, implemented automatic markdown structured parsing
+- Automated the delivery of comprehensive team sheets, featuring strategic rationale and imagery via Google Drive
 
 ---
 
@@ -95,6 +132,8 @@ _Focus Healthcare Partners LLC_ in Chicago IL from _May 2024 to Aug 2024_
 
 [![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=fff)](https://vercel.com/)
 [![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=000)](https://render.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=fff)](https://github.com/features/actions)
+[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=fff)](https://playwright.dev/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000)](https://www.kernel.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff)](https://git-scm.com/)
 

@@ -2,7 +2,7 @@
 
 **Full Stack AI/ML Engineer @ [Rowan](https://trustrowan.com) | Youth Baseball & Basketball Coach**
 
-Building full stack AI products end-to-end — empowering small business owners to transform their unsellable businesses into attractive M&A targets. When I'm not building, I'm coaching youth baseball and basketball around Chicago. Drawn to lean startups and investment firms applying full stack AI to problems that actually matter, where end-to-end ownership is expected.
+Building full stack AI/ML products with a Seed startup accelerating sell-side due diligence and empowering attractive lower-middle market M&A targets. On the side, shipping end-to-end a private equity AI/ML platform for senior housing real estate investors to predict building performance from teaser data. When I’m not building, I’m coaching youth baseball and basketball around Chicago.
 
 - 🏙️ Based in Chicago, IL
 - 🎓 B.S. Computer Engineering, University of Notre Dame — Cum Laude, **3.87 GPA**

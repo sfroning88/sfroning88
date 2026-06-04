@@ -28,6 +28,7 @@ _Rowan_ in Chicago IL from _Jul 2025 to Present_
 - Develop succession portal with scoring across 16 due diligence scopes, RBAC workflows, and revenue concentration visualizations
 - Architect document ingestion pipeline processing 100+ files of 1.5 GB+ per business into structured Postgres and pgvector stores
 - Deploy query-time RAG with SSE streaming, pgvector cosine search, cross-encoder rerank, and persisted citations
+- Design Agentic RAG evaluations using RAGAS, AspectCritic, and M&A compliance metrics on timed asynchronous jobs
 
 ### **Data Engineer**
 

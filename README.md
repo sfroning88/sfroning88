@@ -1,14 +1,15 @@
-# Hi, I'm Sean Froning 🐧
+# Hi, I'm Sean Froning 🦉
 
-**Full Stack AI/ML Engineer @ [Rowan](https://trustrowan.com) | Youth Baseball & Basketball Coach**
+**AI/ML Engineer @ [Rowan](https://trustrowan.com) | Youth Baseball & Basketball Coach**
 
-Building full stack AI/ML products with a Seed startup accelerating sell-side due diligence and empowering attractive lower-middle market M&A targets. On the side, shipping end-to-end a private equity AI/ML platform for senior housing real estate investors to predict building performance from teaser data. When I’m not building, I’m coaching youth baseball and basketball around Chicago.
+Building full stack AI/ML products with a Seed startup accelerating sell-side due diligence and empowering attractive lower-middle market M&A targets. On the side, shipping a two-tier volcanic unrest system that pairs satellite imagery with TinyML seismic models on the edge. Looking to build ClimateTech that mitigates climate-related outcomes while coaching youth baseball and basketball.
 
 - 🏙️ Based in Chicago, IL
 - 🎓 B.S. Computer Engineering, University of Notre Dame — Cum Laude, **3.87 GPA**
 - 📚 Minors in Engineering Finance & Strategy and Accounting — Dean's List 5x
 - 🏗️ Sell side diligence platform serving **25+ M&A professionals** across $70M LMM enterprise value @ Rowan
-- 📊 Shipped AI/ML platform analyzing **450+ senior housing properties** for 10+ investors @ Deep Focus
+- 🌋 Shipping TinyML system training on **850+ GB of interferograms** and **3.5+ K spectrograms** @ Fiery Spirit
+- 📊 Deployed AI/ML platform analyzing **450+ senior housing properties** for 10+ investors @ Deep Focus
 - 💼 PE/M&A experience: leveraged buyouts, due diligence, $1B+ deal pipeline @ Focus Healthcare Partners
 - 📫 [sfroning@alumni.nd.edu](mailto:sfroning@alumni.nd.edu) · [linkedin.com/in/sean-froning](https://linkedin.com/in/sean-froning) · [seanfroning.com](https://seanfroning.com)
 
@@ -52,6 +53,19 @@ _Focus Healthcare Partners LLC_ in Chicago IL from _May 2024 to Aug 2024_
 ---
 
 ## 🚀 Projects
+
+### **Tiny AI/ML for Two-Tiered Volcanic Eruption Monitoring**
+
+_Fiery Spirit_ in Chicago IL from _Aug 2026 to Present_ - TinyML, PEFT/LoRA, Distillation, Geospatial ML
+
+- Detect Southern Volcanic Zone (SVZ) unrest by cross-correlating inferences from satellite imagery with on-ground sensor readings
+- Build and freeze training dataset by streaming 850+ GB of InSAR satellite imagery and 3.5+ K Llaima volcano spectrograms into R2
+- Balance satellite imagery dataset by augmenting real interferograms with Okada synthetic fringe fields to cover rare deformations
+- Fine-tune a "Screener" cloud-based ViT model with qkv-only LoRA and AdamW on interferograms for detecting ground-deformation
+- Pre-train a "Teacher" cloud-based CNN model with for 4-class labelling of seismic waveforms for detecting volcanic tremors
+- Distill the "Teacher" into a smaller "Student" edge device CNN model with KL plus cross-entropy for on-ground seismic sensors
+- Compress "Student" model with iterative prune-then-finetune and PTQ/QAT quantization under flash, peak RAM, and MAC budgets
+- Architect challenger promotion per model: "Screener" on recall/FPR, "Teacher" on macro-F1, "Student" on accuracy-budget tradeoff
 
 ### **AI/ML Platform for Senior Housing Investment**
 
@@ -121,6 +135,7 @@ _Personal_ in Notre Dame IN from _Mar 2025 to Jun 2025_ — Data Wrangling, AI R
 [![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=flat&logo=robot&logoColor=fff)](https://www.crewai.com/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=000)](https://huggingface.co/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=fff)](https://pytorch.org/)
+[![TorchAO](https://img.shields.io/badge/TorchAO-EE4C2C?style=flat&logo=pytorch&logoColor=fff)](https://pytorch.org/ao/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=fff)](https://www.tensorflow.org/)
 [![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=fff)](https://scikit-learn.org/)
 [![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=fff)](https://pandas.pydata.org/)
@@ -138,6 +153,8 @@ _Personal_ in Notre Dame IN from _Mar 2025 to Jun 2025_ — Data Wrangling, AI R
 ### **Infrastructure & Tooling**
 
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=fff)](https://aws.amazon.com/)
+[![Cloudflare R2](https://img.shields.io/badge/Cloudflare%20R2-F38020?style=flat&logo=cloudflare&logoColor=fff)](https://developers.cloudflare.com/r2/)
+[![Modal](https://img.shields.io/badge/Modal-000?style=flat&logo=modal&logoColor=fff)](https://modal.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff)](https://www.docker.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=fff)](https://vercel.com/)
 [![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=000)](https://render.com/)

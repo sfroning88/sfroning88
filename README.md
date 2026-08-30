@@ -17,7 +17,7 @@ Building full stack AI/ML products with a Seed startup accelerating sell-side du
 
 ## 💼 Experience
 
-### **Full Stack AI/ML Engineer**
+### **AI/ML Engineer**
 
 _Rowan_ in Chicago IL from _Jul 2025 to Present_
 

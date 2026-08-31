@@ -9,7 +9,6 @@ Building full stack AI/ML products with a Seed startup accelerating sell-side du
 - Sell side diligence platform serving **25+ M&A professionals** across $70M LMM enterprise value @ Rowan
 - Shipping TinyML system training on **850+ GB of interferograms** and **3.5+ K spectrograms** @ Fiery Spirit
 - Deployed AI/ML platform analyzing **450+ senior housing properties** for 10+ investors @ Deep Focus
-- [sfroning@alumni.nd.edu](mailto:sfroning@alumni.nd.edu) · [linkedin.com/in/sean-froning](https://linkedin.com/in/sean-froning) · [seanfroning.com](https://seanfroning.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=fff)](https://linkedin.com/in/sean-froning)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=fff)](https://github.com/sfroning88)

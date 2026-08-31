@@ -1,4 +1,4 @@
-# Hi, I'm Sean Froning 🦉
+# Hello There, Sean Froning 🦉
 
 **AI/ML Engineer @ [Rowan](https://trustrowan.com) | Youth Baseball & Basketball Coach**
 
@@ -10,7 +10,6 @@ Building full stack AI/ML products with a Seed startup accelerating sell-side du
 - 🏗️ Sell side diligence platform serving **25+ M&A professionals** across $70M LMM enterprise value @ Rowan
 - 🌋 Shipping TinyML system training on **850+ GB of interferograms** and **3.5+ K spectrograms** @ Fiery Spirit
 - 📊 Deployed AI/ML platform analyzing **450+ senior housing properties** for 10+ investors @ Deep Focus
-- 💼 PE/M&A experience: leveraged buyouts, due diligence, $1B+ deal pipeline @ Focus Healthcare Partners
 - 📫 [sfroning@alumni.nd.edu](mailto:sfroning@alumni.nd.edu) · [linkedin.com/in/sean-froning](https://linkedin.com/in/sean-froning) · [seanfroning.com](https://seanfroning.com)
 
 ---
@@ -29,26 +28,6 @@ _Rowan_ in Chicago IL from _Jul 2025 to Present_
 - Design Agentic RAG evaluations using RAGAS, AspectCritic, and M&A compliance metrics with LLM-as-judge approach
 - Configure CI/CD with GitHub Actions, Playwright smoke tests against Vercel previews, Render deploy status gates, and code audits
 - Engineer automations supporting lower middle market bankers across 4 small business transactions up to $70 M enterprise value
-
-### **Data Engineer**
-
-_University Relations_ in Notre Dame IN from _Jan 2022 to May 2025_
-
-- Spearheaded international alumni engagement strategy generating $5+ M in unrestricted donations across 10+ countries
-- Delivered 5+ performance and data-driven strategy presentations to University leadership, accessing $300 K additional funding
-- Built 10+ interactive dashboards using Tableau and PowerBI improving successful alumni engagement rate by 10% on outreach
-- Developed Python application serving 130+ students with Google Sheets integration processing 100+ daily donor transactions
-- Automated 5 legacy processes in statistics, reporting, and hiring using Microsoft Excel, reducing manual work by 14 hours / week
-
-### **Healthcare Investment Analyst**
-
-_Focus Healthcare Partners LLC_ in Chicago IL from _May 2024 to Aug 2024_
-
-- Evaluated 15+ acquisitions using 3-Statements Leveraged Buyouts to determine equity returns across $1+ B deal pipeline
-- Built LLM RAG model processing 10+ K data points using LlamaIndex, CrewAI, and GPT-4o for controllable expense forecasting
-- Analyzed 20+ healthcare and senior housing real estate targets, identifying $300+ M in attractive investment opportunities
-- Supported asset management and operations of 4 portfolio companies valued at $250M achieving 12% EBITDA improvement
-- Participated in 10+ strategy meetings and client calls supporting $350M current fund with 75%+ Limited Partner retention rate
 
 ---
 
@@ -78,26 +57,6 @@ _Deep Focus_ in Chicago IL from _Apr 2026 to Jul 2026_ — Feature Engineering, 
 - Deployed runtime model inference with training-serving skew prevention through symmetric imputation and self-contained artifacts
 - Configured CI/CD with GitHub Actions, Playwright smoke tests against Vercel previews, Render deploy gates, and code audits
 - Developed investment models for analyzing 450+ senior housing properties to predict financial performance and occupancy targets
-
-### **Financial Health Chatbot**
-
-_Rowan_ in Chicago IL — _Jul 2025_ — Flask App Design, AI Chatbot Modelling, Financial Analysis
-
-- Built a net working capital chatbot using Flask API and HTML/CSS/JS frontend, tailored for industrial small business owners
-- Engineered dynamic data ingestion pipeline using pandas and regex, parsing csv and xlsx into structured time-series dataframes
-- Enabled accurate business health analysis for AP, AR, Rolling Inventory, and Net Working Capital with dual-model architecture
-- Developed robust document cleaning and period parsing logic, ensuring compatibility across inconsistent financial file structures
-- Integrated plotting and historical trend mapping with PyChart features for visualization-assisted agentic financial health insights
-
-### **Web Scraping and RAG Pipeline**
-
-_Personal_ in Notre Dame IN from _Mar 2025 to Jun 2025_ — Data Wrangling, AI RAG Modelling, AI Automation
-
-- Scraped 3000+ competitive battling Pokemon datasets using concurrent BeautifulSoup requests with ~100% efficiency
-- Processed 1 GB+ of data through automated Google Drive integration and structured file management systems
-- Built LLM RAG fine-tuned model using LlamaIndex, CrewAI, and GPT-4o-Mini generating battle team recommendations
-- Optimized chat performance by adjusting document embeddings, implemented automatic markdown structured parsing
-- Automated the delivery of comprehensive team sheets, featuring strategic rationale and imagery via Google Drive
 
 ---
 
@@ -145,11 +104,6 @@ _Personal_ in Notre Dame IN from _Mar 2025 to Jun 2025_ — Data Wrangling, AI R
 [![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=fff)](https://redis.io/)
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=fff)](https://www.prisma.io/)
 
-### **Analytics & BI**
-
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=fff)](https://www.tableau.com/)
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=000)](https://powerbi.microsoft.com/)
-
 ### **Infrastructure & Tooling**
 
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=fff)](https://aws.amazon.com/)
@@ -163,14 +117,6 @@ _Personal_ in Notre Dame IN from _Mar 2025 to Jun 2025_ — Data Wrangling, AI R
 [![PostHog](https://img.shields.io/badge/PostHog-000?style=flat&logo=posthog&logoColor=fff)](https://posthog.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000)](https://www.kernel.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff)](https://git-scm.com/)
-
-### **Finance & M&A**
-
-[![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=fff)](https://www.microsoft.com/en-us/microsoft-365/excel)
-[![LBO Modeling](https://img.shields.io/badge/LBO%20Modeling-2D3748?style=flat&logo=databricks&logoColor=fff)](https://github.com/sfroning88)
-[![Due Diligence](https://img.shields.io/badge/Due%20Diligence-1A1A2E?style=flat&logo=docusign&logoColor=fff)](https://github.com/sfroning88)
-[![SaaS Valuation](https://img.shields.io/badge/SaaS%20Valuation-4A90D9?style=flat&logo=stripe&logoColor=fff)](https://github.com/sfroning88)
-[![DCF Modeling](https://img.shields.io/badge/DCF%20Modeling-6C757D?style=flat&logo=cashapp&logoColor=fff)](https://github.com/sfroning88)
 
 ---
 

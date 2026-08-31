@@ -39,10 +39,10 @@ _Fiery Spirit_ in Chicago IL from _Aug 2026 to Present_ - TinyML, PEFT/LoRA, Dis
 - Detect Southern Volcanic Zone unrest by cross-correlating inferences from satellite imagery with on-ground sensor readings
 - Build and freeze dataset by streaming 850+ GB of InSAR satellite imagery and 3.5+ K Llaima volcano spectrograms into R2
 - Balance satellite imagery dataset by augmenting real interferograms with Okada synthetic fringes to cover rare deformations
-- Fine-tune a "Screener" cloud-based ViT model with qkv-only LoRA and AdamW on interferograms for detecting ground-deformation
-- Pre-train a "Teacher" cloud-based CNN model with for 4-class labelling of seismic waveforms for detecting volcanic tremors
-- Distill the "Teacher" into a "Student" edge device CNN model with KL plus cross-entropy for on-ground seismic sensors
-- Compress "Student" model with iterative prune-then-finetune and PTQ/QAT quantization under flash, peak RAM, and MAC budgets
+- Fine-tune "Screener" cloud ViT model with qkv-only LoRA and AdamW on interferograms for detecting ground-deformation
+- Pre-train "Teacher" cloud CNN model with for 4-class labelling of seismic waveforms for detecting volcanic tremors
+- Distill "Teacher" into "Student" edge device CNN model with KL plus cross-entropy for on-ground seismic sensors
+- Compress "Student" with iterative prune-then-finetune and PTQ/QAT quantization under flash, peak RAM, and MAC budgets
 - Architect challenger promotion per model: "Screener" on recall/FPR, "Teacher" on macro-F1, "Student" on accuracy tradeoff
 
 ## **AI/ML Platform for Senior Housing Investment**
@@ -50,9 +50,9 @@ _Fiery Spirit_ in Chicago IL from _Aug 2026 to Present_ - TinyML, PEFT/LoRA, Dis
 _Deep Focus_ in Chicago IL from _Apr 2026 to Jul 2026_ — Feature Engineering, MLOps, Full Stack Development
 
 - Built AI/ML full stack platform using React dashboard, FastAPI backends with RQ Redis jobs for 10+ investment professionals
-- Designed Postgres database with Prisma managing 950+ observations, user authentication, schema migrations, and model lineage
+- Designed Postgres database with Prisma managing 950+ observations, user authentication, migrations, and model lineage
 - Engineered scale-invariant orthogonal 15+ feature contract with derived ratios, mean-target encodings, and temporal features
-- Architected MLOps across 8+ concurrent trainings, HMAC-SHA256 signatures, hot-swap model registry, and challenger promotion
+- Architected MLOps across 8+ concurrent trainings, HMAC-SHA256 signatures, hot-swap registry, and challenger promotion
 - Deployed runtime inference with training-serving skew prevention through symmetric imputation and self-contained artifacts
 - Configured CI/CD with GitHub Actions, Playwright smoke tests against Vercel previews, Render deploy gates, and code audits
 - Developed investment models for analyzing 450+ senior housing properties to predict financial performance targets

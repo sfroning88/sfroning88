@@ -50,7 +50,7 @@ _Fiery Spirit_ in Chicago IL from _Aug 2026 to Present_ - TinyML, PEFT/LoRA, Dis
 _Deep Focus_ in Chicago IL from _Apr 2026 to Jul 2026_ — Feature Engineering, MLOps, Full Stack Development
 
 - Built AI/ML full stack platform using React dashboard, FastAPI backends with RQ Redis for 10+ investment professionals
-- Designed Postgres database with Prisma managing 950+ observations, user identity and access management, and model lineage
+- Designed Postgres database with Prisma managing 950+ observations, user identity provenance, and model lineage
 - Engineered scale-invariant orthogonal 15+ feature contract with derived ratios, mean-target encodings, and temporal series
 - Architected MLOps across 8+ concurrent trainings, HMAC-SHA256 signatures, hot-swap registry, and challenger promotion
 - Deployed runtime inference with training-serving skew prevention through symmetric imputation and self-contained artifacts

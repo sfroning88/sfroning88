@@ -40,7 +40,7 @@ Building full stack AI/ML products with a Seed startup accelerating sell-side du
 ## **AI/ML Platform for Senior Housing Investment**
 
 - Built AI/ML full stack platform using React dashboard, FastAPI backends with RQ Redis for 10+ investment professionals
-- Designed Postgres database with Prisma managing 950+ observations, user identity and access management, and model lineage
+- Designed Postgres database with Prisma managing 950+ observations, user identity provenance, and model lineage
 - Engineered scale-invariant orthogonal 15+ feature contract with derived ratios, mean encodings, and temporal series
 - Architected MLOps across 8+ batched trainings, HMAC-SHA256 signatures, hot-swap registry, and challenger promotion
 - Deployed inference with training-serving skew prevention through symmetric imputation and self-contained artifacts

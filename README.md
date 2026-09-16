@@ -1,6 +1,6 @@
-# Hello There, Sean Froning
+# Sean Froning
 
-**AI/ML Engineer @ [Rowan](https://trustrowan.com) | Baseball & Basketball Coach**
+## AI/ML Engineer | Baseball & Basketball Coach
 
 Building full stack AI/ML products with a Seed startup accelerating sell-side due diligence and empowering attractive lower-middle market M&A targets. On the side, shipping a two-tier volcanic unrest system that pairs satellite imagery with TinyML seismic models on the edge. Pursuing TinyML techniques as a greener and cost-friendly way to build climate tech.
 

@@ -1,6 +1,6 @@
 # Sean Froning
 
-## Machine Learning Engineer | Baseball & Basketball Coach
+## Machine Learning Software Engineer | Baseball & Basketball Coach
 
 Building full stack AI products with a Seed startup accelerating sell-side due diligence and empowering attractive lower middle market M&A targets. On the side, shipping a two-tier volcanic unrest system that pairs satellite imagery with seismic models on the edge. Pursuing TinyML techniques as a greener and cost-friendly way to build climate tech.
 
